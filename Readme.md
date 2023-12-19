@@ -28,4 +28,3 @@ The app defines following CRUD APIs.
     
     DELETE /api/notes/{noteId}
 "# Notes_api-using-springboot" 
-"# Notes_api-using-springboot" 
